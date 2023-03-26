@@ -1,0 +1,15 @@
+{
+    "name": "alwin/webtech2v2",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlwinStecher",
+            "email": "alwinstecher@icloud.com"
+        }
+    ],
+    "require": {  }
+}
